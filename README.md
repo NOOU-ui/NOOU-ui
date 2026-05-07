@@ -32,5 +32,3 @@ Passionnée par l'informatique et son application dans le monde de l'entreprise.
 
 ---
 
-### 📊 Mes Statistiques GitHub
-![Stats de [Ton Pseudo]](https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO_ICI]&show_icons=true&theme=radical)
